@@ -1,0 +1,9 @@
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\bin\Debug\net48\MyGrasshopperAssembly_20240519.gha
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\bin\Debug\net48\MyGrasshopperAssembly_20240519.pdb
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\obj\Debug\net48\MyGrasshopperAssembly_20240519.csproj.AssemblyReference.cache
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\obj\Debug\net48\MyGrasshopperAssembly_20240519.GeneratedMSBuildEditorConfig.editorconfig
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\obj\Debug\net48\MyGrasshopperAssembly_20240519.AssemblyInfoInputs.cache
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\obj\Debug\net48\MyGrasshopperAssembly_20240519.AssemblyInfo.cs
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\obj\Debug\net48\MyGrasshopperAssembly_20240519.csproj.CoreCompileInputs.cache
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\obj\Debug\net48\MyGrasshopperAssembly_20240519.gha
+D:\RhinoGHProject\GrasshopperPG\MyGrasshopperAssembly_20240519\obj\Debug\net48\MyGrasshopperAssembly_20240519.pdb
