@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mcy4N84qFqk=",
+  "success": true,
+  "projectFilePath": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\MyGrasshopperAssembly_2024052403.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

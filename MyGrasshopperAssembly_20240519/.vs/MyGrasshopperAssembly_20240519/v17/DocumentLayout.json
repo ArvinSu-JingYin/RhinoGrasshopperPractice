@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18264136-2FBF-419A-B415-40BBA9FEB556}|MyGrasshopperAssembly_20240519.csproj|d:\\rhinoghproject\\grasshopperpg\\rhinograsshopperpractice\\mygrasshopperassembly_20240519\\test2024051901.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18264136-2FBF-419A-B415-40BBA9FEB556}|MyGrasshopperAssembly_20240519.csproj|solutionrelative:test2024051901.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\MathPractice20240523.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MathPractice20240523.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18264136-2FBF-419A-B415-40BBA9FEB556}|MyGrasshopperAssembly_20240519.csproj|d:\\rhinoghproject\\grasshopperpg\\rhinograsshopperpractice\\mygrasshopperassembly_20240519\\mygrasshopperassembly_component20240519.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18264136-2FBF-419A-B415-40BBA9FEB556}|MyGrasshopperAssembly_20240519.csproj|solutionrelative:mygrasshopperassembly_component20240519.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathPractice20240523.cs",
+              "DocumentMoniker": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\MathPractice20240523.cs",
+              "RelativeDocumentMoniker": "MathPractice20240523.cs",
+              "ToolTip": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\MathPractice20240523.cs",
+              "RelativeToolTip": "MathPractice20240523.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:37:52.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test2024051901.cs",
+              "DocumentMoniker": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\test2024051901.cs",
+              "RelativeDocumentMoniker": "test2024051901.cs",
+              "ToolTip": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\test2024051901.cs",
+              "RelativeToolTip": "test2024051901.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:09:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyGrasshopperAssembly_Component20240519.cs",
+              "DocumentMoniker": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\MyGrasshopperAssembly_Component20240519.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly_Component20240519.cs",
+              "ToolTip": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\MyGrasshopperAssembly_Component20240519.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly_Component20240519.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:09:57.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

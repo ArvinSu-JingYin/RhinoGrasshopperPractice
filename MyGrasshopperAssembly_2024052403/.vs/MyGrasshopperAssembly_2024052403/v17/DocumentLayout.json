@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F794A251-785B-4514-A1A3-9DAE33447F0A}|MyGrasshopperAssembly_2024052403.csproj|d:\\rhinoghproject\\grasshopperpg\\mygrasshopperassembly_2024052403\\mathpractice20240523.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F794A251-785B-4514-A1A3-9DAE33447F0A}|MyGrasshopperAssembly_2024052403.csproj|solutionrelative:mathpractice20240523.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F794A251-785B-4514-A1A3-9DAE33447F0A}|MyGrasshopperAssembly_2024052403.csproj|d:\\rhinoghproject\\grasshopperpg\\mygrasshopperassembly_2024052403\\mycomponent_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F794A251-785B-4514-A1A3-9DAE33447F0A}|MyGrasshopperAssembly_2024052403.csproj|solutionrelative:mycomponent_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F794A251-785B-4514-A1A3-9DAE33447F0A}|MyGrasshopperAssembly_2024052403.csproj|d:\\rhinoghproject\\grasshopperpg\\mygrasshopperassembly_2024052403\\mygrasshopperassembly_component2024052403.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F794A251-785B-4514-A1A3-9DAE33447F0A}|MyGrasshopperAssembly_2024052403.csproj|solutionrelative:mygrasshopperassembly_component2024052403.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathPractice20240523.cs",
+              "DocumentMoniker": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\MathPractice20240523.cs",
+              "RelativeDocumentMoniker": "MathPractice20240523.cs",
+              "ToolTip": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\MathPractice20240523.cs",
+              "RelativeToolTip": "MathPractice20240523.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:39:01.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyComponent_test.cs",
+              "DocumentMoniker": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\MyComponent_test.cs",
+              "RelativeDocumentMoniker": "MyComponent_test.cs",
+              "ToolTip": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\MyComponent_test.cs",
+              "RelativeToolTip": "MyComponent_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:28:25.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyGrasshopperAssembly_Component2024052403.cs",
+              "DocumentMoniker": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\MyGrasshopperAssembly_Component2024052403.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly_Component2024052403.cs",
+              "ToolTip": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_2024052403\\MyGrasshopperAssembly_Component2024052403.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly_Component2024052403.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:27:23.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

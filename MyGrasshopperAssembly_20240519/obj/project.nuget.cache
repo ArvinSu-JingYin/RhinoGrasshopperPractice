@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0IICmwLZOfRhKd44CkOStnMstMhQAgjxH9H7FGZlwiF5Bd6csz17gPl3QivkLz9MnpqZUnKVjXKZxF91n7uTew==",
+  "dgSpecHash": "TA7p9XDN1hA=",
   "success": true,
-  "projectFilePath": "D:\\RhinoGHProject\\GrasshopperPG\\MyGrasshopperAssembly_20240519\\MyGrasshopperAssembly_20240519.csproj",
+  "projectFilePath": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240519\\MyGrasshopperAssembly_20240519.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"

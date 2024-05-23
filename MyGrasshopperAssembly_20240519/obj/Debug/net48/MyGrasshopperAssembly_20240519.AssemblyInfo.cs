@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Description of MyGrasshopperAssembly_20240519")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7f3d1fac3635be43b1d2c5486d91fc6d8674eebe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyGrasshopperAssembly_20240519")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyGrasshopperAssembly_20240519")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
