@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240602\\MyGrasshopperAssembly_20240602.csproj": {}
+  },
+  "projects": {
+    "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240602\\MyGrasshopperAssembly_20240602.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240602\\MyGrasshopperAssembly_20240602.csproj",
+        "projectName": "MyGrasshopperAssembly_20240602",
+        "projectPath": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240602\\MyGrasshopperAssembly_20240602.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\RhinoGHProject\\GrasshopperPG\\RhinoGrasshopperPractice\\MyGrasshopperAssembly_20240602\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\RhinoGHProject\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.13.21348.13001, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
